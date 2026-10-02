@@ -1,0 +1,21 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Dataset
+PlantVillage/
+
+# Trained models
+*.pth
+*.pkl
+
+# Results / generated files
+results/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+archive.zip
